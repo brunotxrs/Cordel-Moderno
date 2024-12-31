@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --font-title: "Special Elite", serif;
+    --font-paragrafo: "Roboto Slab", serif;
+
+    --first: #ffffff;
+    --second:  #000000;
+}
+
+body {
+    min-height: 100vh;
+    background-color: darkgray;
+    font-family: var(--font-paragrafo);
+}
