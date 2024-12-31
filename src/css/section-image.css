@@ -23,12 +23,13 @@ section {
 }
 
 #image01{
-    background-image: url(../img/background001.jpg);
-    background-position: right center;
+    background: lightgray url(../img/background001.jpg) right center no-repeat fixed;
+    background-size: cover;
+    
 }
 
 #image02{
-    background-image: url(../img/background002.jpg);
-    background-position: left center;
+    background: lightgray url(../img/background002.jpg) right center no-repeat fixed;
+    background-size: cover;
 }
 
