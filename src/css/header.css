@@ -1,0 +1,30 @@
+header {
+    background-color: var(--second);
+    width: 100%;
+    
+    & h1 {
+        font-family: var(--font-title);
+        font-variant: small-caps;
+        font-size: 10vw;
+        color: var(--first);
+        text-align: center;
+        padding-top: 3.125rem;
+    }
+
+    & p {
+        font-family: var(--font-paragrafo);
+        text-align: center;
+        color: var(--first);
+        padding-bottom: 3.125rem;
+        unicode-bidi: isolate;
+    }
+
+    & a {
+        color: var(--first);
+        text-decoration: none;
+        padding: 0.625rem;
+    }
+    & a:hover {
+        text-decoration: underline;
+    }
+}
