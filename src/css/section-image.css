@@ -24,13 +24,13 @@ section {
 }
 
 #image01{
-    background: lightgray url(../img/background001.jpg) right center no-repeat fixed;
+    background: lightgray url(../img/background001.jpg) center center no-repeat fixed;
     background-size: cover;
     
 }
 
 #image02{
-    background: lightgray url(../img/background002.jpg) right center no-repeat fixed;
+    background: lightgray url(../img/background002.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
