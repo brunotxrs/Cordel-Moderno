@@ -31,21 +31,21 @@ Cordel-Moderno/
 ├── index.html 
 ├── readme.md
 └── src/ 
-    ├── css/
-    │ ├── global.css
-    │ ├── header.css
-    │ ├── section-normal.css
-    │ ├── section-image.css 
-    │ └── footer.css 
-    ├── favicon/ 
-    │ └── favicon.ico 
-    ├── fonts/
-    │ └── fonts.txt
-    ├── img/ 
-    │ ├── background001.jpg 
-    │ └── background002.jpg 
-    └── color/
-     └── color.txt 
+  ├── css/
+  │ ├── global.css
+  │ ├── header.css
+  │ ├── section-normal.css
+  │ ├── section-image.css 
+  │ └── footer.css 
+  ├── favicon/ 
+  │ └── favicon.ico 
+  ├── fonts/
+  │ └── fonts.txt
+  ├── img/ 
+  │ ├── background001.jpg 
+  │ └── background002.jpg 
+  └── color/
+    └── color.txt 
 
 ```
 ---
