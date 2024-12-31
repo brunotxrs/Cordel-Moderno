@@ -1,0 +1,2 @@
+--first: #ffffff;
+--second:  #000000;
