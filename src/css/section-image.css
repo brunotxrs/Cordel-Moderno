@@ -1,7 +1,8 @@
 section {
+    max-width: 100%;
     padding-top: 10vh;
     padding-bottom: 10vh;
-    line-height: 2em;
+    
     padding-left: 30px;
     font-family: var(--font-paragrafo);
     font-size: 3.5vw;
@@ -9,12 +10,12 @@ section {
 
 .image {   
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
-    background-size: cover;
-    background-attachment: fixed;
+    
 }
 
 .image > p {
     display: inline-block;
+    line-height: 2em;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
     padding: 2rem 2rem 2rem 2rem;
