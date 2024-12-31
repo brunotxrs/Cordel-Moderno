@@ -1,0 +1,15 @@
+.normal {
+    background-color: var(--first);
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 1.875rem;
+
+    & p {
+        color: var(--second);
+        font-family: var(--paragrafo);
+        font-size: 3.5vw;
+        line-height: 2em;
+        padding-bottom: 2em;
+        
+    }
+}
